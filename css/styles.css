@@ -4,7 +4,7 @@
   --fw-normal: 400;
   --fw-bold: 700;
   --img-bg: url("../assets/images/bg-desktop-dark.jpg");
-  --clr-primary: hsl(0, 0%, 98%);
+  --clr-primary: hsla(0, 0%, 98%, 0.674);
   --clr-white: hsl(0, 5%, 8%);
   --clr-page-bg: hsl(235, 21%, 11%);
   --clr-card-bg: hsl(233, 32%, 15%);
